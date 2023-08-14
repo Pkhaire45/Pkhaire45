@@ -5,7 +5,8 @@
 <h2 align="center">A passionate Java developer from India</h2>
 
    <p align="center">
-  <img src= ""D:\profile photo.jpg"">
+  <img src= "![pkhaire](https://github.com/Pkhaire45/Pkhaire45/assets/112862135/51e306bb-4abb-428e-8b1b-c24001f82dca)
+">
   </p>
 
  

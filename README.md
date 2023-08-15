@@ -5,8 +5,7 @@
 <h2 align="center">A passionate Java developer from India</h2>
 
    <p align="center">
-  <img src= "![pkhaire](https://github.com/Pkhaire45/Pkhaire45/assets/112862135/51e306bb-4abb-428e-8b1b-c24001f82dca)
-">
+  <img src= "" >
   </p>
 
  
@@ -17,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1i4XSfGX_bJagwbMgwIAYfdInS6rU08Ld](https://drive.google.com/file/d/1iFpzex0xN2ZF6Irmr58bfpt2DQzYAKx5/view?usp=sharing)
 
-- 💬 Ask me about *Java, HTML, CSS, JavaScript, PHP, MySQL, React, Machine Learning.*
+- 💬 Ask me about *Java, HTML , JavaScript, MySQL, React, Machine Learning.*
 
 - 📫 How to reach me **khairepravin14@gmail.com**
 
